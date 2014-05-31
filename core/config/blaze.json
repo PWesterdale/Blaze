@@ -8,6 +8,16 @@
 			"database" : "blaze",
 			"username" : "",
 			"password" : "",
+		},
+		"payment" : {
+			"stripe" : {
+				
+			}
+		}
+	},
+	"modules" : {
+		"payment" : {
+			"gateways" : ["stripe"],
 		}
 	}
 }
