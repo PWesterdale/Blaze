@@ -1,0 +1,13 @@
+{
+	"database" : {
+		"mongo" : {
+			"url" : "mongodb://localhost/blaze"
+		},
+		"mysql" : {
+			"host" : "localhost",
+			"database" : "blaze",
+			"username" : "",
+			"password" : "",
+		}
+	}
+}
